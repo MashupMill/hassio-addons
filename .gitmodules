@@ -1,0 +1,3 @@
+[submodule "addon-tasmoadmin"]
+	path = addon-tasmoadmin
+	url = https://github.com/ammmze/addon-tasmoadmin.git
